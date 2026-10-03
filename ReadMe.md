@@ -1,5 +1,10 @@
-# 💫 About Me:
-iam working at elnozom<br>Iam a full stack developer with next.js and flutter <br>and asp.net core<br>I have an experiemce in devops thorugh docker <br>i am skillable at ci cd skills <br>I love learning everyday🥰
+# 💫 About Me
+👋 Hi, I'm Hussein!  
+- Currently working at **Elnozom**  
+- Full‑stack developer specializing in **Next.js**, **Flutter**, and **ASP.NET Core**  
+- Experienced in **DevOps** with **Docker**  
+- Skilled in **CI/CD pipelines** and automation  
+- Passionate about continuous learning and growth 🚀
 
 
 # 💻 Tech Stack:
